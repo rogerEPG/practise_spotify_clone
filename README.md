@@ -1,4 +1,6 @@
- HTML & CSS - Spotify Clone
+![](https://github.com/GammaTechSchool/MAD_PART_Lovelace_2/blob/main/src/assets/Logo_Yellow.png)
+
+# HTML & CSS - Spotify Clone
 
 ## Introduction
 
